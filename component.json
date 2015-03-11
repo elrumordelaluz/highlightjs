@@ -7,6 +7,7 @@
     "highlight.pack.js"
   ],
   "files": [
-    "styles/default.css"
+    "styles/default.css",
+    "styles/github.css"
   ]
 }
