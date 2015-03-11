@@ -3,7 +3,8 @@
   "version": "8.4.0",
   "main": [
     "highlight.pack.js",
-    "styles/default.css"
+    "styles/default.css",
+    "styles/github.css"
   ],
   "ignore": [
     "**/.*",
